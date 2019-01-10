@@ -13,6 +13,8 @@
 
 - And here, you go!
 
+Note - **Icon is taken from [here](https://pngtree.com/free-icon/clean_419342)**
+
 ### Thanks!
 
 [![Author](https://img.shields.io/badge/Author-@vinitshahdeo-gray.svg?colorA=gray&colorB=dodgerblue)](https://github.com/vinitshahdeo/)
