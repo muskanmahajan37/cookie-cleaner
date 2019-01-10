@@ -1,7 +1,7 @@
 # Cookie Cleaner
 #### A chrome extension to delete all the cookies in one go!
 
-[![Cookie cleaner](https://img.shields.io/badge/Cookie-Cleaner-teal.svg?colorA=red&colorB=blue)](https://github.com/vinitshahdeo/cookie-cleaner) [![Chrome Extesion](https://img.shields.io/badge/Chrome-Extension-gray.svg?colorA=lightgray&colorB=orange)](https://github.com/vinitshahdeo/cookie-cleaner)
+[![Cookie cleaner](https://img.shields.io/badge/Cookie-Cleaner-teal.svg?colorA=red&colorB=blue)](https://github.com/vinitshahdeo/cookie-cleaner) [![Chrome Extesion](https://img.shields.io/badge/Chrome-Extension-teal.svg)](https://github.com/vinitshahdeo/cookie-cleaner)
 
 **Steps to install this extension manually :**
 
