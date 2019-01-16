@@ -3,6 +3,20 @@
     <head>
         <title>Cookie Cleaner - Chrome Extension</title>
         <meta name="author" content="Vinit Shahdeo">
+        <style>
+        body{
+            min-height: 100px;
+            min-width: 300px;
+            align-content: center;
+            text-align: center;
+            overflow-wrap: break-word;
+        }
+        #container{
+            text-align: center;
+            align-content: center;
+            overflow-wrap: break-word;
+        }
+        </style>
     </head>
     <body>
         
@@ -10,16 +24,17 @@
             <h2>Cookie Cleaner</h2>
                 <h1><span id="cookie-counter"></span></h1>
                 
-            <button class="learn-more" id="clear-cookies">
-              <div class="circle">
-                <span class="icon arrow"></span>
-              </div>
-              <p class="button-text">Clear Cookies</p>
-            </button>
+            Enter domain : <input type="text" id="url"><br><br>
+            KEY : <input type="text" id="key"><br>VALUE<input type="text" key="value"><br><br>
+            <button type = "button" id="clear-cookies">Clear All Cookies</button><br><br>
+            <button type="button" id="display-cookies">display-cookies</button><br><br>
+            <button type="button" id="set-cookies">Set Cookies</button>
+
+            <table id="cookieslog"></table>
           </div>
         
     
-        <link rel="stylesheet" href="css/style.css">
+       
         <script src="index.js"></script>
         <script src="background.js"></script>
 
