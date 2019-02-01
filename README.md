@@ -13,7 +13,7 @@
 
 - And here, you go!
 
-> You can do more with [Cookie Manager](https://vinitshahdeo.github.io/Cookie-Manager/)! Check this chrome extension [here](https://github.com/vinitshahdeo/Cookie-Manager).
+> #### You can do more with [Cookie Manager](https://vinitshahdeo.github.io/Cookie-Manager/)! Check this chrome extension [here](https://github.com/vinitshahdeo/Cookie-Manager).
 
 Note - **Icon is taken from [here](https://pngtree.com/free-icon/clean_419342)**
 
